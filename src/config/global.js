@@ -229,13 +229,13 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Jesús Antonio Vecino Valero',
+        nombre: 'Eulises Orduz Amezquita',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Walter Roa Serrano',
+        nombre: 'Lizeth Karina Manchego Suárez',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
