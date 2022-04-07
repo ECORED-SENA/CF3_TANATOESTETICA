@@ -235,7 +235,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Lizeth Karina Manchego Suárez',
+        nombre: 'Lizeth Karina Manchego Suarez',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
