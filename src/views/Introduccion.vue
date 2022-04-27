@@ -23,7 +23,7 @@
       .col-lg-7
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 <b><span class="cp">La estética de un cuerpo sin vida</span></b> es una sensación planeada para el ritual final de este. <b>A veces quienes asisten a esta ceremonia fijan su mirada en los detalles de los aspectos físicos del fallecido, y esta acción será una imagen que quedará en la memoria de los deudos.</b>
-        p En el presente <b>componente de formación se ha estructurado</b> en torno a <b>temáticas como  la estética de un cuerpo fallecido, las adecuaciones del cuerpo para la <span class="cp">tanatoestética y la cosmetología funeraria.</span></b>  Cabe mencionar que <b>la estética del fallecido se realiza a partir de técnicas de maquillaje</b> en las que se busca la <b><span class="cp">naturalidad del fallecido</span></b>, asemejándose a sus naturales y su tipo de piel. En ocasiones, <b>las técnicas de estética contribuyen a enmendar daños visibles en el rostro causados por una enfermedad, accidentes o traumatismo, entre otros.</b>
+        p En el presente <b>componente formativo se ha estructurado</b> en torno a <b>temáticas como  la estética de un cuerpo fallecido, las adecuaciones del cuerpo para la <span class="cp">tanatoestética y la cosmetología funeraria.</span></b>  Cabe mencionar que <b>la estética del fallecido se realiza a partir de técnicas de maquillaje</b> en las que se busca la <b><span class="cp">naturalidad del fallecido</span></b>, asemejándose a sus naturales y su tipo de piel. En ocasiones, <b>las técnicas de estética contribuyen a enmendar daños visibles en el rostro causados por una enfermedad, accidentes o traumatismo, entre otros.</b>
 
       .col-lg-5(data-aos="fade-left")
         figure

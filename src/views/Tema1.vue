@@ -11,17 +11,17 @@
     .row.justify-content-center.fondo-bg3
       .col-md-12.px-md-5
         p.mb-5
-          b El proceso de
-          b(style="color: #008F85;") embalsamamiento
-          b del cadáver es de carácter invasivo.
-          b-none Esto implica que existirán procedimientos que perforan tejidos y órganos del cuerpo fallecido, lo que implica un riesgo alto para un
-          b(style="color: #008F85;") tanatopractor
-          b porque estará expuesto a diferentes microorganismos que podrán escaparse fácilmente.
-          b-none Por ello el cuerpo, las superficies, instrumental e insumos se deben de considerar como
-          b reservorios potenciales ya que alojan agentes patógenos.
-          b-none Ante este contexto se hace necesario que usted
-          b identifique lineamientos y definiciones según
-          b(style="color: #008F85;") Mayer,
+          b El proceso de 
+          b(style="color: #008F85;") embalsamamiento 
+          b del cadáver es de carácter invasivo. 
+          b-none Esto implica que existirán procedimientos que perforan tejidos y órganos del cuerpo fallecido, lo que implica un riesgo alto para un 
+          b(style="color: #008F85;") tanatopractor 
+          b porque estará expuesto a diferentes microorganismos que podrán escaparse fácilmente. 
+          b-none Por ello el cuerpo, las superficies, instrumental e insumos se deben de considerar como 
+          b reservorios potenciales ya que alojan agentes patógenos. 
+          b-none Ante este contexto se hace necesario que usted 
+          b identifique lineamientos y definiciones según 
+          b(style="color: #008F85;") Mayer, 
           b-none para hacer de su trabajo un lugar seguro tanto para usted como para su entorno.
 
 
@@ -29,11 +29,11 @@
           .row.m-0.align-items-center.justify-content-between
             .col-lg-9
               .bloque-texto-a__texto.p-4
-                p Anteriormente hemos definido
-                  b  la desinfección como un procedimiento orientado a la eliminación de microorganismos que causan enfermedades en los humanos.
+                p Anteriormente hemos definido 
+                  b  la desinfección como un procedimiento orientado a la eliminación de microorganismos que causan enfermedades en los humanos. 
                   b-none En el proceso de embalsamamiento se podrá distinguir dos tipos de desinfección:
                   b(style="color: #008F85;")  1. De insumos e instrumentos y 2.  Del cadáver.
-                  b-none  A continuación, encontrarás la
+                  b-none  A continuación, encontrarás la 
                   b definición de cada una de ellas.
             .col-lg-3.mb-4.mb-lg-0
               figure
@@ -91,14 +91,14 @@
         .row.m-0.align-items-center.justify-content-between
           .col-lg-9
             .bloque-texto-a__texto.p-5
-              p.mb-0 Como se ha mencionado antes,
-                b la desinfección de un cadáver comienza con unas técnicas orientadas a la reducción o eliminación de microorganismos patógenos
-                b-none los cuales pueden alterar o
-                b(style="color: #008F85;") acelerar el proceso de descomposición del cuerpo.
-                b-none Cuando se hace una
-                b  desinfección interna del cadáver se utilizan germicidas que se incorporan a los líquidos arteriales, de co-inyección y líquidos de cavidad.
-                b-none  Con la intención de
-                b(style="color: #008F85;") caracterizar las acciones a realizar cuando desinfecte un cuerpo fallecido,
+              p.mb-0 Como se ha mencionado antes, 
+                b la desinfección de un cadáver comienza con unas técnicas orientadas a la reducción o eliminación de microorganismos patógenos 
+                b-none los cuales pueden alterar o 
+                b(style="color: #008F85;") acelerar el proceso de descomposición del cuerpo. 
+                b-none Cuando se hace una 
+                b  desinfección interna del cadáver se utilizan germicidas que se incorporan a los líquidos arteriales, de co-inyección y líquidos de cavidad. 
+                b-none  Con la intención de 
+                b(style="color: #008F85;") caracterizar las acciones a realizar cuando desinfecte un cuerpo fallecido, 
                 b-none  lo invitamos a observar el siguiente recurso educativo.
           .col-lg-3.mb-4.mb-lg-0
             figure

@@ -58,7 +58,7 @@
           li
             .lista-ol--cuadro__vineta
               span 2
-            | Cuando el fallecido presenta una descomposición avanzada, el director de servicio debe verificar que el cofre se haya sellado herméticamente. Él inspecciona que el cofre esté bien externamente: limpio, sin rayones, sin hendiduras y completamente cerrado con una cinta
+            | Cuando el fallecido presenta una descomposición avanzada, el director de servicio debe verificar que el cofre se haya sellado herméticamente. Él inspecciona que el cofre esté bien externamente: limpio, sin rayones, sin hendiduras y completamente cerrado con una cinta.
           li
             .lista-ol--cuadro__vineta
               span 3
@@ -76,7 +76,7 @@
 
         .col-md.col-lg-6
           h3 Verificación y ajustes de la tanatopraxia
-          p.mb-4 El embalsamamiento es un proceso que se ha practicado en diferentes culturas con el objetivo de postergar la descomposición de un cadáver a través de diferentes formas y métodos que han estado en historia del hombre. Este procedimiento puede considerándose una de las artes de mayor antigüedad practicada por los hombres.
+          p.mb-4 El embalsamamiento es un proceso que se ha practicado en diferentes culturas con el objetivo de postergar la descomposición de un cadáver a través de diferentes formas y métodos que han estado en historia del hombre. Este procedimiento puede considerarse una de las artes de mayor antigüedad practicada por los hombres.
             br
             br
             |En la actualidad, el embalsamamiento se práctica a partir de unas acciones tradicionales,  normatividad vigente y protocolos institucionales que tratan de atender las necesidades de los deudos. Para conocer más sobre este tema consulte el siguiente recurso.

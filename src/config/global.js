@@ -97,7 +97,7 @@ export default {
     {
       referencia: 'Braunstein, M. (2017). Todo sobre la técnica del color. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1i756fj/TN_cdi_elibro_books_ELB123958',
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_elibroELB123958',
     },
     {
       referencia:
@@ -157,7 +157,7 @@ export default {
       texto: 'Braunstein, M. (2017). Todo sobre la técnica del color.',
       tipo: 'Libro digital, biblioteca SENA.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1i756fj/TN_cdi_elibro_books_ELB123958',
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_elibroELB123958',
     },
     {
       texto:
